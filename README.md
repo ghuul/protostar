@@ -1,38 +1,48 @@
 # Protostar Solutions
 My solutions to the Protostar virtual machine's binary exploitation
-problems.
+exercises.
 
 ## Stack
- - [X] Stack0
- - [X] Stack1
- - [X] Stack2
- - [X] Stack3
- - [X] Stack4
- - [ ] Stack5
- - [ ] Stack6
- - [ ] Stack7
+ Exercise | Writeup                     | Completed
+----------------------------------------------------
+ Stack0   | [Here](solutions/stack0.md) | x
+ Stack1   | [Here](solutions/stack1.md) | x
+ Stack2   | [Here](solutions/stack2.md) | x
+ Stack3   | [Here](solutions/stack3.md) | x
+ Stack4   | [Here](solutions/stack4.md) | x
+ Stack5   | -                           | -
+ Stack6   | -                           | -
+ Stack7   | -                           | -
 
 ## Format
- - [ ] Format0
- - [ ] Format1
- - [ ] Format2
- - [ ] Format3
- - [ ] Format4
+ Exercise | Writeup | Completed
+--------------------------------
+ Format0  | -       | -
+ Format1  | -       | -
+ Format2  | -       | -
+ Format3  | -       | -
+ Format4  | -       | -
 
 ## Heap
- - [ ] Heap0
- - [ ] Heap1
- - [ ] Heap2
- - [ ] Heap3
+ Exercise | Writeup | Completed
+--------------------------------
+ Heap0    | -       | -
+ Heap1    | -       | -
+ Heap2    | -       | -
+ Heap3    | -       | -
 
 ## Net
- - [ ] Net0
- - [ ] Net1
- - [ ] Net2
- - [ ] Net3
- - [ ] Net4
+ Exercise | Writeup | Completed
+--------------------------------
+ Net0     | -       | -
+ Net1     | -       | -
+ Net2     | -       | -
+ Net3     | -       | -
+ Net4     | -       | -
 
 ## Final
- - [ ] Final0
- - [ ] Final1
- - [ ] Final2
+ Exercise | Writeup | Completed
+--------------------------------
+ Final0   | -       | -
+ Final1   | -       | -
+ Final2   | -       | -

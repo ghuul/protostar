@@ -3,16 +3,14 @@ My solutions to the Protostar virtual machine's binary exploitation
 exercises.
 
 ## Stack
- Exercise | Writeup                 | Completed
-----------|-------------------------|-----------
- Stack0   | [Here](stack/stack0.md) | x
- Stack1   | [Here](stack/stack1.md) | x
- Stack2   | [Here](stack/stack2.md) | x
- Stack3   | [Here](stack/stack3.md) | x
- Stack4   | [Here](stack/stack4.md) | x
- Stack5   | -                       | -
- Stack6   | -                       | -
- Stack7   | -                       | -
+ - [X] [Stack0](stack/stack0.md)
+ - [X] [Stack1](stack/stack1.md)
+ - [X] [Stack2](stack/stack2.md)
+ - [X] [Stack3](stack/stack3.md)
+ - [X] [Stack4](stack/stack4.md)
+ - [ ] Stack5
+ - [ ] Stack6
+ - [ ] Stack7
 
 ## Format
  Exercise | Writeup | Completed

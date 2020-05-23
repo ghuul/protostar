@@ -3,44 +3,36 @@ My solutions to the Protostar virtual machine's binary exploitation
 exercises.
 
 ## Stack
- - [X] [Stack0](stack/stack0.md)
- - [X] [Stack1](stack/stack1.md)
- - [X] [Stack2](stack/stack2.md)
- - [X] [Stack3](stack/stack3.md)
- - [X] [Stack4](stack/stack4.md)
- - [ ] Stack5
- - [ ] Stack6
- - [ ] Stack7
+ - [X] Challenge 0x01: [Stack0](stack/stack0.md)
+ - [X] Challenge 0x02: [Stack1](stack/stack1.md)
+ - [X] Challenge 0x03: [Stack2](stack/stack2.md)
+ - [X] Challenge 0x04: [Stack3](stack/stack3.md)
+ - [X] Challenge 0x05: [Stack4](stack/stack4.md)
+ - [ ] Challenge 0x07: Stack5
+ - [ ] Challenge 0x08: Stack6
+ - [ ] Challenge 0x09: Stack7
 
 ## Format
- Exercise | Writeup | Completed
-----------|---------|-----------
- Format0  | -       | -
- Format1  | -       | -
- Format2  | -       | -
- Format3  | -       | -
- Format4  | -       | -
+ - [ ] Challenge 0x0a: Format0
+ - [ ] Challenge 0x0b: Format1
+ - [ ] Challenge 0x0c: Format2
+ - [ ] Challenge 0x0d: Format3
+ - [ ] Challenge 0x0e: Format4
 
 ## Heap
- Exercise | Writeup | Completed
-----------|---------|-----------
- Heap0    | -       | -
- Heap1    | -       | -
- Heap2    | -       | -
- Heap3    | -       | -
+ - [ ] Challenge 0x0f: Heap0
+ - [ ] Challenge 0x10: Heap1
+ - [ ] Challenge 0x11: Heap2
+ - [ ] Challenge 0x12: Heap3
 
 ## Net
- Exercise | Writeup | Completed
-----------|---------|-----------
- Net0     | -       | -
- Net1     | -       | -
- Net2     | -       | -
- Net3     | -       | -
- Net4     | -       | -
+ - [ ] Challenge 0x13: Net0
+ - [ ] Challenge 0x14: Net1
+ - [ ] Challenge 0x15: Net2
+ - [ ] Challenge 0x16: Net3
+ - [ ] Challenge 0x17: Net4
 
 ## Final
- Exercise | Writeup | Completed
-----------|---------|-----------
- Final0   | -       | -
- Final1   | -       | -
- Final2   | -       | -
+ - [ ] Challenge 0x18: Final0
+ - [ ] Challenge 0x19: Final1
+ - [ ] Challenge 0x1a: Final2
